@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Users/14426/Desktop/adc programming/HM2/CMakeLists.txt
+  Lab1.cpp
+C:\Users\14426\Desktop\adc programming\HM2\codes\Lab1.cpp(282,43): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+C:\Users\14426\Desktop\adc programming\HM2\codes\Lab1.cpp(282,43): warning C4244:         with
+C:\Users\14426\Desktop\adc programming\HM2\codes\Lab1.cpp(282,43): warning C4244:         [
+C:\Users\14426\Desktop\adc programming\HM2\codes\Lab1.cpp(282,43): warning C4244:             T=unsigned int
+C:\Users\14426\Desktop\adc programming\HM2\codes\Lab1.cpp(282,43): warning C4244:         ]
+C:\Users\14426\Desktop\adc programming\HM2\codes\Lab1.cpp(289,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\14426\Desktop\adc programming\HM2\codes\Lab1.cpp(319,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\14426\Desktop\adc programming\HM2\codes\Lab1.cpp(320,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ECE_Centipede.cpp
+  ECE_LaserBlast.cpp
+  正在生成代码...
+  RetroCentipedeGame.vcxproj -> C:\Users\14426\Desktop\adc programming\HM2\build\output\bin\RetroCentipedeGame.exe
