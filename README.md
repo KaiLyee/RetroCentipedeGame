@@ -1,4 +1,5 @@
 Retro Centipede Game 
+
 Welcome to the Retro Centipede Game, a simplified version of the classic Atari game Centipede, created as part of ECE6122 coursework. In this game, players navigate a ship to shoot at the centipede while avoiding enemies. The game offers a nostalgic arcade experience with modern implementation techniques.欢迎来到 Retro Centipede Game，这是经典 Atari 游戏 Centipede 的简化版本，作为ECE6122课程的一部分创建。在这个游戏中，玩家驾驶一艘船向蜈蚣射击，同时避开敌人。该游戏通过现代实现技术提供怀旧的街机体验。
 
 Project Overview 项目概况
